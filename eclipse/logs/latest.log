@@ -1,0 +1,38 @@
+[01:36:32] [main/INFO]: Setting user: Player621
+[01:36:46] [Client thread/INFO]: LWJGL Version: 2.9.1
+[01:38:18] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:EoMod
+[01:38:25] [Sound Library Loader/INFO]: Sound engine started
+[01:38:54] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[01:38:54] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[01:38:56] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:EoMod
+[01:39:00] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[01:39:01] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[01:39:03] [Sound Library Loader/INFO]: Sound engine started
+[01:39:53] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[01:39:53] [Server thread/INFO]: Generating keypair
+[01:39:57] [Server thread/INFO]: Preparing start region for level 0
+[01:39:58] [Server thread/INFO]: Preparing spawn area: 1%
+[01:39:59] [Server thread/INFO]: Preparing spawn area: 16%
+[01:40:00] [Server thread/INFO]: Preparing spawn area: 39%
+[01:40:01] [Server thread/INFO]: Preparing spawn area: 58%
+[01:40:02] [Server thread/INFO]: Preparing spawn area: 70%
+[01:40:03] [Server thread/INFO]: Preparing spawn area: 75%
+[01:40:04] [Server thread/INFO]: Preparing spawn area: 80%
+[01:40:05] [Server thread/INFO]: Changing view distance to 2, from 10
+[01:40:14] [Server thread/INFO]: Player621[local:E:60402451] logged in with entity id 0 at (4.37273394641395, 237.0, -7.639597665350836)
+[01:40:14] [Server thread/INFO]: Player621 joined the game
+[01:40:53] [Server thread/INFO]: [Player621: Set own game mode to Survival Mode]
+[01:40:53] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[01:40:55] [Server thread/INFO]: Player621 has just earned the achievement [Taking Inventory]
+[01:40:55] [Client thread/INFO]: [CHAT] Player621 has just earned the achievement [Taking Inventory]
+[01:41:23] [Server thread/INFO]: Saving and pausing game...
+[01:41:23] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[01:41:23] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[01:41:23] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[01:41:23] [Server thread/INFO]: Stopping server
+[01:41:23] [Server thread/INFO]: Saving players
+[01:41:24] [Server thread/INFO]: Saving worlds
+[01:41:24] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[01:41:24] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[01:41:24] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[01:41:26] [Client thread/INFO]: Stopping!

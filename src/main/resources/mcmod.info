@@ -1,0 +1,16 @@
+[
+{
+  "modid": "eomod",
+  "name": "EoMod",
+  "description": "Official Mod for EodiaCraft.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Falling_knife (Code), OxOTas (Textures and Server)"],
+  "credits": "The Forge and FML guys for the ressources and OxoTas for the Server and mod textures",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

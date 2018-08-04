@@ -1,0 +1,65 @@
+item.Eonite.name=§9Eonite Ingot
+item.eonite_sword.name=§9Eonite Sword
+item.eonite_pickaxe.name=§9Eonite Pickaxe
+item.eonite_axe.name=§9Eonite Axe
+item.eonite_shovel.name=§9Eonite Shovel
+item.eonite_hoe.name=§9Eonite Hoe
+item.eonite_helmet.name=§9Eonite Helmet
+item.eonite_chestplate.name=§9Eonite Chestplate
+item.eonite_leggings.name=§9Eonite Leggings
+item.eonite_boots.name=§9Eonite Boots
+
+item.Sophrate.name=§cSophrate Ingot
+item.sophrate_sword.name=§cSophrate Sword
+item.sophrate_pickaxe.name=§cSophrate Pickaxe
+item.sophrate_axe.name=§cSophrate Axe
+item.sophrate_shovel.name=§cSophrate Shovel
+item.sophrate_hoe.name=§cSophrate Hoe
+item.sophrate_helmet.name=§cSophrate Helmet
+item.sophrate_chestplate.name=§cSophrate Chestplate
+item.sophrate_leggings.name=§cSophrate Leggings
+item.sophrate_boots.name=§cSophrate Boots
+item.sophrate_nugget.name=§cSophrate Nugget
+
+item.Mentarium.name=§aMentarium Ingot
+item.mentarium_sword.name=§aMentarium Sword
+item.mentarium_pickaxe.name=§aMentarium Pickaxe
+item.mentarium_axe.name=§aMentarium Axe
+item.mentarium_shovel.name=§aMentarium Shovel
+item.mentarium_hoe.name=§aMentarium Hoe
+item.mentarium_helmet.name=§aMentarium Helmet
+item.mentarium_chestplate.name=§aMentarium Chestplate
+item.mentarium_leggings.name=§aMentarium Leggings
+item.mentarium_boots.name=§aMentarium Boots
+
+item.Nacre.name=§dNacre
+item.nacre_plate.name=§dNacre Plate
+item.nacre_crystal.name=§dNacre Crystal
+item.nacre_sword.name=§dNacre Sword
+item.nacre_pickaxe.name=§dNacre Pickaxe
+item.nacre_axe.name=§dNacre Axe
+item.nacre_shovel.name=§dNacre Shovel
+item.nacre_hoe.name=§dNacre Hoe
+item.nacre_helmet.name=§dNacre Helmet
+item.nacre_chestplate.name=§dNacre Chestplate
+item.nacre_leggings.name=§dNacre Leggings
+item.nacre_boots.name=§dNacre Boots
+
+item.salt.name=Salt
+item.hellish_gem.name=§6Hellish Gem
+
+tile.eonite_block.name=§9Eonite Block
+tile.eonite_ore.name=§9Eonite Ore
+
+tile.sophrate_block.name=§cSophrate Block
+tile.sophrate_ore.name=§cSophrate Ore
+
+tile.mentarium_block.name=§aMentarium Block
+tile.mentarium_ore.name=§aMentarium Ore
+
+tile.nacre_block.name=§dNacre Block
+tile.nacre_ore.name=§dNacre Ore
+
+tile.eobsie.name=§1Eobsie
+
+itemGroup.tabEomod=Eomod

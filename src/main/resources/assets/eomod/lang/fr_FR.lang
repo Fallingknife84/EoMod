@@ -1,0 +1,65 @@
+item.Eonite.name=§9Lingot d'Eonite
+item.eonite_sword.name=§9Epee en Eonite
+item.eonite_pickaxe.name=§9Pioche en Eonite
+item.eonite_axe.name=§9Hache en Eonite
+item.eonite_shovel.name=§9Pelle en Eonite
+item.eonite_hoe.name=§9Houe en Eonite
+item.eonite_helmet.name=§9Casque en Eonite
+item.eonite_chestplate.name=§9Plastron en Eonite
+item.eonite_leggings.name=§9Jambieres en Eonite
+item.eonite_boots.name=§9Bottes en Eonite
+
+item.Sophrate.name=§cLingot de Sophrate
+item.sophrate_sword.name=§cEpee en Sophrate
+item.sophrate_pickaxe.name=§cPioche en Sophrate
+item.sophrate_axe.name=§cHache en Sophrate
+item.sophrate_shovel.name=§cPelle en Sophrate
+item.sophrate_hoe.name=§cHoue en Sophrate
+item.sophrate_helmet.name=§cCasque en Sophrate
+item.sophrate_chestplate.name=§cPlastron en Sophrate
+item.sophrate_leggings.name=§cJambieres en Sophrate
+item.sophrate_boots.name=§cBottes en Sophrate
+item.sophrate_nugget.name=§cPepittes de Sophrate
+
+item.Mentarium.name=§aLingot de Mentarium
+item.mentarium_sword.name=§aEpee en Mentarium
+item.mentarium_pickaxe.name=§aPioche en Mentarium
+item.mentarium_axe.name=§aHache en Mentarium
+item.mentarium_shovel.name=§aPelle en Mentarium
+item.mentarium_hoe.name=§aHoue en Mentarium
+item.mentarium_helmet.name=§aCasque en Mentarium
+item.mentarium_chestplate.name=§aPlastron en Mentarium
+item.mentarium_leggings.name=§aJambieres en Mentarium
+item.mentarium_boots.name=§aBottes en Mentarium
+
+item.nacre.name=§dNacre
+item.nacre_plate.name=§dPlaque de Nacre
+item.nacre_crystal.name=§dCristal de Nacre
+item.nacre_sword.name=§dEpee en Nacre
+item.nacre_pickaxe.name=§dPioche en Nacre
+item.nacre_axe.name=§dHache en Nacre
+item.nacre_shovel.name=§dPelle en Nacre
+item.nacre_hoe.name=§dHoue en Nacre
+item.nacre_helmet.name=§dCasque en Nacre
+item.nacre_chesplate.name=§dPlastron en Nacre
+item.nacre_leggings.name=§dJambieres en Nacre
+item.nacre_boots.name=§dBottes en Nacre
+
+item.salt.name=Sel
+item.hellish_gem.name=§6Gemme Infernale
+
+tile.eonite_block.name=§9Bloc d'Eonite
+tile.eonite_ore.name=§9Minerais d'Eonite
+
+tile.sophrate_block.name=§cBloc de Sophrate
+tile.sophrate_ore.name=§cMinerais de Sophrate
+
+tile.mentarium_block.name=§aBloc de Mentarium
+tile.mentarium_ore.name=§aMinerais de Mentarium
+
+tile.nacre_block.name=§dBloc de Nacre
+tile.nacre_ore.name=§dMinerais de Nacre
+
+tile.eobsie.name=§1Eobsie
+
+itemGroup.tabEomod=Eomod
