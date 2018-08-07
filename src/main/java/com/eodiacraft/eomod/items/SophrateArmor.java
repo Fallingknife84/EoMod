@@ -49,6 +49,10 @@ public class SophrateArmor extends ItemArmor
             player.addPotionEffect(new PotionEffect(21, 50, 7));
             player.addPotionEffect(new PotionEffect(11, 50, 2));
         }
+        else if(itemStack.getItem() == ItemMod.sophrate_boots)
+        {
+            player.addPotionEffect(new PotionEffect(1, 50, 0));
+        }
 
     }
 }

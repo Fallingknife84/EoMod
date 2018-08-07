@@ -39,6 +39,8 @@ public class EoniteArmor extends ItemArmor
         } else if (itemStack.getItem() == ItemMod.eonite_chestplate && itemStack.getItem() == ItemMod.eonite_helmet && itemStack.getItem() == ItemMod.eonite_leggings && itemStack.getItem() == ItemMod.eonite_boots) {
             player.addPotionEffect(new PotionEffect(21, 50, 5));
             player.addPotionEffect(new PotionEffect(11, 50, 1));
+        } else if(itemStack.getItem() == ItemMod.eonite_boots){
+            player.addPotionEffect(new PotionEffect(1, 50, 0));
         }
     }
 }
